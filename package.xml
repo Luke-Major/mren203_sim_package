@@ -4,7 +4,7 @@
   <name>mren203_sim_package</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">Josh Newans</maintainer>
+  <maintainer email="luke.pb.major@gmail.com">Luke Major</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
